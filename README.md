@@ -11,7 +11,7 @@ We further examine the relationship of plays with other subcategories within the
 
 ![Chart 3 - Subcategory Statistics US](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%203%20-%20Subcategory%20Statistics%20US.png)
 
-If we examine whether the month of the year makes any impact on the success of the campaign, it is obvious that campaigns started in May are the most successful. It is likely connected with the upcoming summer break, more relaxed schedules and as a result the picking up interest of the public in attending cultural events such as plays.
+If we examine whether the month of the year makes any impact on the success of the campaign, it is obvious that campaigns started in May are the most successful. It is likely connected with the upcoming summer break, more relaxed schedules and picking up interest of the public in attending cultural events such as plays.
 
 
 * ***Recommendation No. 1 - Plan to start your campaign in May.***
