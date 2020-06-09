@@ -33,7 +33,7 @@ When further examining the relationship between the Outcome and the Goal, we can
 
 ![Chart 5 - Outcomes Based On Goal](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%205%20-%20Outcomes%20Based%20On%20Goal.png)
 
-Looking again at the launch date for all theater campaigns, the data reveals that May is the most succesful month for theater campaigns, however, we can also see failures pick up in May too. That can possibly be caused by competing projects, i.e., plays are competing with musicals. If Louise is considering a musical project as well, she should be aware of strong competition she can face from play projects and plan her timing accordingly. It looks like October can also be a good month for launching a musical project.
+Looking again at the launch date for all theater campaigns, the data reveals that May is the most succesful month for theater campaigns, however, we can also see failures pick up in May too. That can possibly be caused by competing projects, e.g., plays are competing with musicals. If Louise is considering launching a musical campaign as well, she should be aware of this potential competition. It looks like October can also be a good month for launching a musical campaign. We notice a pick up in cancelations in January likely due to the start of the year and new priorities, and June as interest slows down after busy month of May.
 
 ![Chart 4 - Outcomes based on Launch Date-ALL ](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%204%20-%20Outcomes%20based%20on%20Launch%20Date-ALL.png)
 
