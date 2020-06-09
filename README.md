@@ -15,5 +15,12 @@ If we examine whether the month of the year makes any impact on the success of t
 
 ![Chart 4 - Outcomes based on launch date](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%204%20-%20Outcomes%20based%20on%20launch%20date.png)
 
+The data is also revealing that succesful campaigns were run for less than 30 days. therefore, campaign duration should be taken into accounta as well.
+
+![Chart 6 - Average Duration Plays](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%206%20-%20Average%20Duration%20Plays.png)
+
 * ***Recommendation No. 1 - Plan to start your campaign in May.***
+* ***Recommendation No. 2 - Run your campaign for max 4 weeks.***
+
+
 
