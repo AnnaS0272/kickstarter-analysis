@@ -19,8 +19,13 @@ The data is also revealing that succesful campaigns were run for less than 30 da
 
 ![Chart 6 - Average Duration Plays](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%206%20-%20Average%20Duration%20Plays.png)
 
+Finally, we need to look at what the goal vs. pledged data reveals. As we can see from the summary table below, average succesful campaign is almost twice less than what Louise has planned for, therefore it would be wise to target a lower range.
+
+![Descriptive Statistics Plays](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Descriptive%20Statistics%20Plays.png)
+
 * ***Recommendation No. 1 - Plan to start your campaign in May.***
 * ***Recommendation No. 2 - Run your campaign for max 4 weeks.***
+* ***Recommendation No. 3 - Target campaign cost between $4,000 - $6,000.***
 
 
 
