@@ -26,6 +26,9 @@ Finally, we need to look at what the financial goal and pledged data reveals. As
 * ***Recommendation No. 1 - Plan to start your campaign in May.***
 * ***Recommendation No. 2 - Run your campaign for max 4 weeks.***
 * ***Recommendation No. 3 - Target campaign cost between $4,000 - $6,000.***
-
+---
 ### Module 1 Challenge
 
+When further examining the relationship between Outcome and Goal, we can see the following trend emerging. 
+
+![Chart 5 - Outcomes Based On Goal](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%205%20-%20Outcomes%20Based%20On%20Goal.png)
