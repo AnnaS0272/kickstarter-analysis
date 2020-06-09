@@ -7,8 +7,8 @@ Let's start by looking at the overall summary of Kickstarter campaign data visua
 
 ![Chart 1 - Parent Category Outcome](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%201%20-%20Parent%20Category%20Outcome.png).
 
-We can see a similar trend across all other countries where campaigns were run. 
+We further examine the relationship of plays with other subcategories 
 
-![Chart 3 - Subcategory Statistics](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%203%20-%20Subcategory%20Statistics.png). 
+![Chart 3 - Subcategory Statistics US](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%203%20-%20Subcategory%20Statistics%20US.png). 
 
 That's certainly good news for Louise as she is preparing to campaign in this category. 
