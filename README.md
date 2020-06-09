@@ -1,6 +1,6 @@
 ### An Analysis of Kickstarter Campaigns
 
-This data analysis project is prepared to assist playwrite Louise on selecting the most effective strategy for her campaign. Louise wants to start a crowdfunding campaign to help fund her play Fever; her estimated budget is $10,000. The project is focused on revealing trends and insights from the past Kickstarter campaigns data in order to improve outcomes of future campaigns by providing data driven recommendations.  The analysis is completed using MS Excel analytical tools such as PivotTable, PivotChart, VLOOKUP, Descriptive Statistics and COUNTIFS functionalitites.   
+This data analysis project is prepared to assist playwrite Louise on selecting the most effective strategy for her campaign by revealing trends and insights from the past Kickstarter campaigns data. Louise wants to start a crowdfunding campaign to help fund her play Fever; her estimated budget is $10,000. The analysis is completed using MS Excel analytical tools such as PivotTable, PivotChart, VLOOKUP, Descriptive Statistics and COUNTIFS functionalitites.   
 
 ---
 Let's start by looking at the overall summary of Kickstarter campaign data visualized by the Parent Category. The data is quickly revealing that *theater/plays* category is the most popular in the United States.
