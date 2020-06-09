@@ -19,7 +19,7 @@ The data is also revealing that succesful campaigns were run for less than 30 da
 
 ![Chart 6 - Average Duration Plays](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%206%20-%20Average%20Duration%20Plays.png)
 
-Finally, we need to look at what the financial goal and pledged data reveals. As we can see from the summary table below, average succesful campaign is  $5,000 which is almost twice less than what Louise has planned for, therefore it would be wise to target a lower range.
+Finally, we need to look at what the financial goal and pledged data reveals. As we can see from the summary table below, average succesful campaign is  $5,000 which is almost twice less than what Louise has planned for, therefore it would be wise to target a lower range. Similarly, high standard deviations for failed points to the fact that there were some projects with really high goals and they were not successful.
 
 ![Descriptive Statistics Plays](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Descriptive%20Statistics%20Plays.png)
 
