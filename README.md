@@ -27,5 +27,5 @@ Finally, we need to look at what the financial goal and pledged data reveals. As
 * ***Recommendation No. 2 - Run your campaign for max 4 weeks.***
 * ***Recommendation No. 3 - Target campaign cost between $4,000 - $6,000.***
 
-
+### Module 1 Challenge
 
