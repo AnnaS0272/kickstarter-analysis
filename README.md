@@ -29,6 +29,6 @@ Finally, we need to look at what the financial goal and pledged data reveals. As
 ---
 ### Module 1 Challenge
 
-When further examining the relationship between Outcome and Goal, we can see the following trend emerging. 
+When further examining the relationship between Outcome and Goal, we can see the following trends emerging. As the Goal amount is increasing the success percentage is gradually declining and the failure rate is rising. We can observe some reversal of the trend in the middle and towards the end, signifying that some high value campaigns do become successful but the ultimate pattern remains the same: with rising Goal amount, the success percentage is declining.
 
 ![Chart 5 - Outcomes Based On Goal](https://github.com/AnnaS0272/kickstarter-analysis/blob/master/Chart%205%20-%20Outcomes%20Based%20On%20Goal.png)
